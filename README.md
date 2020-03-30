@@ -7,6 +7,6 @@ This repository is for the development of the VR Puzzle Game in Virtual Reality 
 ### Group Members
 * Kim Inthavong 
 * Maggie Hendon
-*
+* Andrew Moy
 *
 *
