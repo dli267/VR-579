@@ -9,4 +9,4 @@ This repository is for the development of the VR Puzzle Game in Virtual Reality 
 * Maggie Hendon
 * Andrew Moy
 * Annalise Ho
-*
+* Diana Li
